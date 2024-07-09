@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Holla%20Amigo📫!!&animation=fadeIn" />
+<p align=""center">
 
 <!-- Body -->
 <h2> 🛠 &nbsp;My Tools for learning and used to Code</h2>
