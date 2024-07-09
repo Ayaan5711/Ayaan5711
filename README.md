@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <p align="center">   
 <a href="https://x.com/_blueand_grey" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="30" /></a>
 <a href="https://www.linkedin.com/in/ayaan-ahmed-70a5b0157/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /></a>
-<a href="https://www.instagram.com/thepiyushmalhotra/](https://www.instagram.com/_.ayaan07._">
+<a href="https://www.instagram.com/_.ayaan07._">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
