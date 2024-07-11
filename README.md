@@ -18,10 +18,19 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Holla%20Amigo📫!!&animation=fadeIn" />
-<p align=""center">
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AyaanAhmed/count.svg" />
+</p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanahmed" /> </p>
+<img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
+
+<h1 align="center">Hello  👋, I'm Ayaan Ahmed</h1>
+<h3 align="center">A passionate learner and coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, AIML developer🕸👨🏼‍💻 and Designing, Optimising & Data Exploration enthusiast🤖trying to innovate and develop tech that can be successful scalable products, rest of the time travelling, exploring and learning from people and places👯  </h3>
 
 <!-- Body -->
-<h2> 🛠 &nbsp;My Tools for learning and used to Code</h2>
+<h2 align="center"> 🛠 &nbsp;My Tools for learning and used to Code </h2>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -44,10 +53,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </p>
   
-<h1 align="center">Hello  👋, I'm Ayaan Ahmed</h1>
-<h3 align="center">A passionate learner and coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, AIML developer🕸👨🏼‍💻 and Designing, Optimising & Data Exploration enthusiast🤖trying to innovate and develop tech that can be successful scalable products, rest of the time travelling, exploring and learning from people and places👯 </h3>
-
-
 
 <h2> 🔭 &nbsp; Used Frameworks and Libraries </h2>
 <p align="center">
@@ -75,3 +80,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=100&section=footer"/>
 </p>
+
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaanahmed&show_icons=true&locale=en&layout=compact" alt="ayaanahmed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanahmed&show_icons=true&locale=en" alt="ayaanahmed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaanahmed&" alt="ayaanahmed" /></p>-->
+
