@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate learner and coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, AIML developer🕸👨🏼‍💻 and Designing, Optimising & Data Exploration enthusiast🤖trying to innovate and develop tech that can be successful scalable products, rest of the time travelling, exploring and learning from people and places👯  </h3>
 
 <!-- Body -->
-<h2 align="center"> 🛠 &nbsp;My Tools for learning and used to Code </h2>
+<h2 align="center"> 
+  🛠 &nbsp;My Tools for learning and used to Code </h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
