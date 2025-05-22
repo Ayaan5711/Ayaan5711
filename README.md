@@ -68,6 +68,33 @@ Here are some ideas to get you started:
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
 </p> 
 
+
+
+
+<!--- github stats --->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ayaan5711&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayaan5711&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan5711&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- activity graph --->
+
+# ⚡Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayaan5711&bg_color=000000&color=ffffff&line=00ffff&point=00a89d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- top contributed repo --->
+
+# 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=Ayaan5711&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="Center">Connect With Me:</h3>
 <p align="center">   
 <a href="https://x.com/_blueand_grey" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="30" /></a>
